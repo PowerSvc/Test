@@ -9,7 +9,7 @@ chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-gpu')
 chrome_options.add_argument("--disable-dev-shm-usage")
 
-url = "https://www.youtube.com/"
+url = 'https://www.youtube.com/'
 
 browser = webdriver.Chrome(executable_path = os.environ.get("CHROMEDRIVER_PATH"))
 print('Открываю браузер')
