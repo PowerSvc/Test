@@ -18,9 +18,29 @@ time.sleep(2)
 # browser.quit()
 # print('Браузер закрыт')
 
-# print('Открываю браузер')
-# browser.get(url)
-# time.sleep(2)
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
+
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
+
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
+
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
+
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
+
+print('Открываю браузер')
+browser.get(url)
+time.sleep(2)
 # browser.quit()
 # print('Браузер закрыт')
 
